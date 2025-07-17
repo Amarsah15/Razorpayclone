@@ -47,7 +47,7 @@ razorpay-clone/
 
 ## ✨ Author
 
-- [Amarnath Kumar](https://github.com/yourusername)
+- Made with ❤️ by [Amarnath Kumar](https://github.com/Amarsah15)
 
 ---
 This project is for educational and practice purposes only. Not affiliated with Razorpay.

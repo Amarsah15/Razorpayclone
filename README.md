@@ -2,6 +2,10 @@
 
 A fully responsive **Razorpay landing page clone** built using **HTML** and **Tailwind CSS**. This project replicates the sleek and modern design of Razorpay's homepage, perfect for honing frontend development skills.
 
+# Demo
+
+You can view the live demo of the Weather App [here](https://razorpayclone-tau.vercel.app/).
+
 ## 🚀 Features
 
 - 💡 Pixel-perfect Razorpay landing page UI

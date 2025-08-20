@@ -4,7 +4,7 @@ A fully responsive **Razorpay landing page clone** built using **HTML** and **Ta
 
 # Demo
 
-You can view the live demo of the Weather App [here](https://razorpayclone-tau.vercel.app/).
+You can view the live demo [here](https://razorpayclone-tau.vercel.app/).
 
 ## 🚀 Features
 
